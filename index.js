@@ -14,3 +14,13 @@ function johnLennonFacts(facts){
   }
   return result
 }
+
+function iLoveTheBeatles(num){
+  var point= 15 - num
+  var counter = 0
+  var result = []
+  do {
+    result.push("I love the Beatles!")
+    counter +=
+  } while (counter < point);
+}
